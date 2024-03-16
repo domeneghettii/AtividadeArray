@@ -14,5 +14,5 @@ let indiceAlfajor = doces.indexOf('alfajor');
 
 console.log(indiceAlfajor);
 
-// aparece -1, pois o elemento 'alfajor' bnão está dentro do array
+// aparece o -1, pois o elemento 'alfajor' não está dentro do array
 
