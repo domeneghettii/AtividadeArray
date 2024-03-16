@@ -17,4 +17,4 @@ nomes.splice(2, 4);
 
 console.log(nomes);
 
-//  ['luana', 'victória', ']
+//  ['luana', 'victória']
