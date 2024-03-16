@@ -16,3 +16,4 @@ brinquedos.reverse();
 
 console.log(brinquedos);
 
+// ['amoeba', 'lego', 'boneca', 'bola', 'carrinho']
