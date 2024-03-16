@@ -1,7 +1,7 @@
 // Iniciando a atividade
 
 //Metodo 1 : push
-//push: adiciona na ultima pos
+//push: adiciona na última posição do vetor
 let cestaFrutas = [ 'goiaba', 'uva', 'pera'];
 
 // Adiciona 'abacaxi' no final
@@ -15,3 +15,11 @@ cestaFrutas.push('caju', 'amora');
 
 // ['goiaba', 'uva', 'pera', 'abacaxi', 'caju', 'amora']
 console.log(cestaFrutas);
+
+let roupa = [ 'blusa', 'calça', 'meia'];
+
+roupa.push('shorts'); 
+
+console.log(roupa); 
+
+// [ 'blusa', 'calça', 'meia', 'shorts']
